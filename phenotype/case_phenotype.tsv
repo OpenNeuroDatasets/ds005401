@@ -3,7 +3,7 @@ sub-03	51	52	81	Spinal	Undefined-MND
 sub-04	54	16	39	Spinal	PLS
 sub-06	58	7	20	Bulbar	ALS
 sub-07	51	8	14	Spinal	ALS
-sub-12	54	n/a	8	Spinal	ALS
+sub-12	54	26	8	Spinal	ALS
 sub-13	53	17	23	Spinal	ALS
 sub-14	56	5	8	Bulbar	ALS
 sub-18	50	27	23	Spinal	ALS
@@ -16,7 +16,7 @@ sub-24	60	10	15	Spinal	ALS
 sub-27	62	8	17	Spinal	ALS
 sub-28	56	16	24	Spinal	ALS
 sub-29	67	15	18	Bulbar	ALS-bvFTD
-sub-33	66	38	27	Spinal	PLS
+sub-33	66	38	27	Spinal	ALS
 sub-35	63	7	20	Spinal	ALS
 sub-36	60	17	23	Spinal	ALS
 sub-38	58	5	15	Spinal	ALS
